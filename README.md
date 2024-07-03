@@ -2,10 +2,10 @@
 Para ejecutar la calculadora que has implementado en Java usando Swing, sigue estos pasos básicos:
 
 Paso 1: Preparación del código
-Asegúrate de que tienes el código de la calculadora guardado en un archivo con extensión .java. Por ejemplo, podrías guardarlo como Main.java.
+Asegúrate de que tienes el código de la calculadora guardado en un archivo con extensión ".java." Por ejemplo, podrías guardarlo como Main.java.
 
 Paso 2: Compilación del código
-Abre tu terminal o línea de comandos y navega hasta la ubicación donde tienes guardado tu archivo .java. Luego, compila el código usando el comando javac seguido del nombre del archivo:
+Abre tu terminal o línea de comandos y navega hasta la ubicación donde tienes guardado tu archivo ".java." Luego, compila el código usando el comando javac seguido del nombre del archivo:
 javac Main.java
 Esto compilará tu código y creará un archivo .class correspondiente al nombre de tu clase (Main.class en este caso).
 
